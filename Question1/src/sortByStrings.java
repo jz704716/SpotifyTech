@@ -1,8 +1,8 @@
 public class sortByStrings {
 
 	public static void main(String[] args) {
-	String a = "sasfaasafasf";
-	String b = "afs";
+	String a = "student";
+	String b = "tendus";
 	
 	System.out.print(sorting(a,b));
 	}
